@@ -51,7 +51,7 @@ Additional Resources:
 - [ ] [Google Cloud customers who use Big Data tools](https://cloud.google.com/customers/#/products=Big_Data_Analytics)
 
 ### Labs
-Lab 1
+- [x] Lab 1
  [Lab: Exploring a BigQuery Public Dataset, to enhance your learning experience.](https://googlecoursera.qwiklabs.com/focuses/19386944)
+- [ ] Lab 2 [lab: Recommending Products Using Cloud SQL and Spark](https://googlecoursera.qwiklabs.com/focuses/19388160?parent=lti_session)
 ## Week 2
-
